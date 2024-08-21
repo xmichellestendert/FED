@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Michelle Stendert
 
   #### Je startniveau:
-  Blauw (met soms wat uitdaging met piste rood)
+  Blauw
 
   #### Je focus:
-  Responsive
+  Responsive or Surface
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.dolfinarium.nl
+  https://www.sony.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina 
-  <img src="readme-images/Home.jpg" width="375px" alt="Homepagina van de website">
+  <img src="readme-images/Screenshot-home-sony.jpg" width="375px" alt="Homepagina van de website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Het park ontdekken 
-  <img src="readme-images/ParkOntdekken.jpg" width="375px" alt="Pagina waarbij je meer van het park kan ontdekken">
+  <img src="readme-images/Screenshot-community-sony.jpg" width="375px" alt="Pagina over toegankelijkheid">
  
 </details>
 
