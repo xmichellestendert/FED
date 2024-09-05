@@ -5,13 +5,20 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    width: 375px;
+    margin: 0;
+    /* Hiermee wordt de container in het midden van het scherm geplaatst */
+    overflow-x: hidden;
+    /* Zorgt ervoor dat eventuele inhoud die buiten de container valt, wordt verborgen */
 }
 
 header {
     background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 10000;
+    width: 375px;
     color: #ffff;
-    height: 100%;
-    width: 10em;
     padding: 25px 20px;
     text-align: center;
 }
