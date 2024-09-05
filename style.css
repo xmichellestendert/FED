@@ -10,6 +10,8 @@ body {
 header {
     background-color: black;
     color: #ffff;
+    height: 100%;
+    width: 10em;
     padding: 25px 20px;
     text-align: center;
 }
@@ -54,6 +56,9 @@ nav ul li a:hover {
     background: url('https://www.sony.nl/image/sonyview/media-images/hero/hero-banner-lg.jpg') no-repeat center center/cover;
     padding: 100px 20px;
 }
+
+.hero img {
+    width: 10em;
 
 .hero-text {
     position: relative;
