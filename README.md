@@ -39,10 +39,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.sony.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): Home
-  <img src="readme-images/home-mobiel.png" width="250px" alt="Homepagina van de website">
+  <img src="readme-images/home.png" width="250px" alt="Homepagina van de website">
 
   #### Screenshot(s) van de tweede pagina (small screen): Toegankelijkheid
-  <img src="readme-images/alpha-mobiel.png" width="250px" alt="Pagina over Alpha Universe">
+  <img src="readme-images/alpha.png" width="250px" alt="Pagina over Alpha Universe">
  
 </details>
 
