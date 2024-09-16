@@ -87,6 +87,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  ik had moeite met de opzet van de website, de basis krijgen is voor mij lastig. Ik begrijp de theorie als ik dit hoor en lees, 
+  maar het zelf toepassen van deze theorie vind ik lastig. Nadat ik de basis had opgezet ging het toevoegen van de afbeeldingen en juiste elementen een stuk gemakkelijker.
+
+  <img src="readme-images/voortgang1a.png" width="250px" alt="Afbeelding over de voortgang van de header op de homepage in week 2">
+  <img src="readme-images/voortgang1b.png" width="250px" alt="Afbeelding over de voortgang van de content op de homepage in week 2">
 
 
   ### Agenda voor meeting
