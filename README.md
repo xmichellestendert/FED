@@ -92,20 +92,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Helena         | Michelle           | Sabri        | Tess             |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Michelle              | Student 2          | Student 3    | Student 4        |
+  | ---                   | ---                | ---          | ---              |
+  | Header afbeelding     | en dit             | en ik dit    | en dan ik dat    |
+  | Opbouw homepage       | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | iconen in navigatie   | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+- Logo is de h1 van de homepagina
+- H1 is titel van de pagina (waar gaat de pagina over)
+- Section - flexbox - articles f
+- 2e section is een grid - aanspreken door “end of type”
+- Bij de promoties & aanbiedingen kan je alleen de linkjes erin zetten
+- Er wordt gebruik gemaakt van een thematische groepering
+- Onderbouwen - diversiteit (in de carousels)
+- Div alleen gebruiken voor vormgeving (in de carousel) 
+- Svg als icoon, deze kan je stylen in css
+- Afbeeldingen hoeven geen alt test als het geen toegevoegde waarde heeft
+- 2e pagina heeft class nodig voor css
+Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijgt class)
 
 </details>
 
