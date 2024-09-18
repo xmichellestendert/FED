@@ -240,7 +240,7 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. [How to add a link to a picture](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
   2. bron 2
   3. ...
 
