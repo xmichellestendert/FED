@@ -244,8 +244,8 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. [How to add a link to a picture](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
-  2. bron 2
-  3. ...
+  1. [How to add a link to a picture?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+  2. [Define scroll-padding-top and how to use?](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-top) (bron: Sanne 't Hooft)
+  3. [How to smooth scroll?](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
 
 </details>
