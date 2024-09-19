@@ -148,6 +148,8 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   | text align left | dit als er tijd is     | nog een punt       |              |  dit wil ik zeker|
   | surface plane vanuit theorie in lessen   | ...                | ...          | ...              |
   | uitklapbare footer                       | ...                | ...          | ...              |
+  | tweede menu/header                       | ...                | ...          | ...              |
+
 
 
 
