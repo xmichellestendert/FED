@@ -132,17 +132,21 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben verder gegaan met het coderen van de website, heb vee moeite gehad om de carousels op te zetten, maar heb hier hulp voor gevraagd en is het uitgelegd hoe het in elkaar zit en hoe ik het het beste kan aanpakken. Dit heb ik ook geprobeerd en ben uiteindelijk gekomen bij een resultaat waar ik tevreden mee ben. Dit heeft deze week de meeste tijd ook ingenomen. Nu die basis staat kan ik verder met de rest van de content coderen.
+
+  <img src="readme-images/voortgang2a.jpg" width="250px" alt="Afbeelding over de voortgang van de content op de homepage in week 3">
+  <img src="readme-images/voortgang2b.jpg" width="250px" alt="Afbeelding over de voortgang van de content op de homepage in week 3">
+  <img src="readme-images/voortgang2c.jpg" width="250px" alt="Afbeelding over de voortgang van de content op de homepage in week 3">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Michelle                                 | student 2          | student 3    | student 4        |
+  | ---                                      | ---                | ---          | ---              |
+  | Scrollbar laten verdwijnen               | en dit     | en ik dit    | en dan ik dat    |
+  | text align left | dit als er tijd is     | nog een punt | dit wil ik zeker |
+  | surface plane vanuit theorie in lessen   | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
