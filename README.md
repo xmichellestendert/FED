@@ -144,9 +144,11 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
 
   | Michelle                                 | student 2          | student 3    | student 4        |
   | ---                                      | ---                | ---          | ---              |
-  | Scrollbar laten verdwijnen               | en dit     | en ik dit    | en dan ik dat    |
-  | text align left | dit als er tijd is     | nog een punt | dit wil ik zeker |
+  | Scrollbar laten verdwijnen               | en dit             | en ik dit    | en dan ik dat    |
+  | text align left | dit als er tijd is     | nog een punt       |              |  dit wil ik zeker|
   | surface plane vanuit theorie in lessen   | ...                | ...          | ...              |
+  | uitklapbare footer                       | ...                | ...          | ...              |
+
 
 
   ### Verslag van meeting
