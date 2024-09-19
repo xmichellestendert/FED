@@ -251,5 +251,6 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   1. [How to add a link to a picture?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
   2. [Define scroll-padding-top and how to use?](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-top) (bron: Sanne 't Hooft)
   3. [How to smooth scroll?](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
+  4. [How to autoplay on a embedded video]([https://www.w3schools.com/howto/howto_css_smooth_scroll.asp](https://stackoverflow.com/questions/7281765/how-to-embed-an-autoplaying-youtube-video-in-an-iframe))
 
 </details>
