@@ -147,19 +147,16 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   | Scrollbar laten verdwijnen               | en dit             | en ik dit    | en dan ik dat    |
   | text align left | dit als er tijd is     | nog een punt       |              |  dit wil ik zeker|
   | surface plane vanuit theorie in lessen   | ...                | ...          | ...              |
-  | uitklapbare footer                       | ...                | ...          | ...              |
-  | tweede menu/header                       | ...                | ...          | ...              |
-
 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Scrollbar laten verdwijnen is niet nodig, hde carousel is al goed genoeg
+  - Vanuit de surface kant wordt er niet getld hoeveel elementen erin zitten, het gaat erom dat je je code begrijpt
+  - De h2's van de homepage konden niet links uitgelijnd worden, omdat ik alle h2's had aangesproken om een grote margin te hebben aan de linkerkant
+  - De eindgesprekken worden volgende week (in week 4) ingepland, dit kan verplaatst worden indien nodig
 
 </details>
 
