@@ -55,9 +55,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 (afbeeldingen invoegen over test)
 
-  
-**Bevindingen screenreader test**
-  **Tijdens**
+Bevindingen screenreader test
+
+
+**Tijdens**
 - Gaat elk element in de website af, noemt elementen die niet voor een gebruiker van toepassing zijn (html elementen)
 - Scrollt door elke carousel heen - vervelend, teveel informatie
 - Vertelt wat er te zien is op de afbeeldingen door de alt tekst
