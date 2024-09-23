@@ -56,9 +56,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 (afbeeldingen invoegen over test)
   ### Bevindingen screenreader test
   Lijst met je bevindingen die in de test naar voren kwamen:
-Aantekeningen screenreader
-
- **Tijdens**
+  
+  **Tijdens**
 - Gaat elk element in de website af, noemt elementen die niet voor een gebruiker van toepassing zijn (html elementen)
 - Scrollt door elke carousel heen - vervelend, teveel informatie
 - Vertelt wat er te zien is op de afbeeldingen door de alt tekst
@@ -69,8 +68,8 @@ Aantekeningen screenreader
 - Screenreader komt niet bij Universe en footer door vorig punt
 
 **Achteraf**
-Heel veel informatie die word verteld, gaat maar door zonder pauzes
-Afbeeldingen hebben veel tekst die afleiden van het doel en content
+- Heel veel informatie die word verteld, gaat maar door zonder pauzes
+- Afbeeldingen hebben veel tekst die afleiden van het doel en content
 </details>
 
 
