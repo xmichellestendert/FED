@@ -54,9 +54,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 (afbeeldingen invoegen over test)
-  ### Bevindingen screenreader test
-  Lijst met je bevindingen die in de test naar voren kwamen:
+
   
+**Bevindingen screenreader test**
   **Tijdens**
 - Gaat elk element in de website af, noemt elementen die niet voor een gebruiker van toepassing zijn (html elementen)
 - Scrollt door elke carousel heen - vervelend, teveel informatie
