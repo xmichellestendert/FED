@@ -1,3 +1,4 @@
+
 # Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
@@ -55,7 +56,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 (afbeeldingen invoegen over test)
   ### Bevindingen screenreader test
   Lijst met je bevindingen die in de test naar voren kwamen:
+Aantekeningen screenreader
 
+ **Tijdens**
+- Gaat elk element in de website af, noemt elementen die niet voor een gebruiker van toepassing zijn (html elementen)
+- Scrollt door elke carousel heen - vervelend, teveel informatie
+- Vertelt wat er te zien is op de afbeeldingen door de alt tekst
+- hartje voor favorieten wordt niet als button besproken, er is dus missende informatie, geldt voor alle producten
+- Reviews worden niet besproken bij de producten
+- Screenreader begint bij het einde onderin, geeft wel aan dat het een link is
+- Blijft hangen bij laatste carousel, gaat alleen nog maar door de carousel
+- Screenreader komt niet bij Universe en footer door vorig punt
+
+**Achteraf**
+Heel veel informatie die word verteld, gaat maar door zonder pauzes
+Afbeeldingen hebben veel tekst die afleiden van het doel en content
 </details>
 
 
