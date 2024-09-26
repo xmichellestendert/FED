@@ -211,6 +211,7 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   | zoekbalk laten werken, wat word daar precies mee bedoelt (in hoeverre)?  | en dit             | en ik dit    | en dan ik dat    |
   | feedback over de website pagina(s) in het algemeen                       | dit als er tijd is  | nog een punt | dit wil ik zeker |
   | focus state (safari / chrome)                                            | ...                | ...          | ...              |
+  | Je uitkomst - karakteristiek screenshots(?)                              | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
