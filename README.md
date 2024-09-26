@@ -199,8 +199,7 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Aangezien het ondertussen alweer week 4 is en de laatste week om alles af te ronden, heb ik wel even stress gekregen. Mijn website was al op schema ongeveer, maar de afronding kan je zeker niet onderschatten. Hierbij heb ik toch wat moeten gebruiken waar ik niet heel veel van snapte en erg lastig vond: grid. Een oud-klasgenoot heeft mij uitgelegd hoe dit een beetje in zijn werk ging. Ook heb ik deze week veel op youtube en google gezeten voor kleine obstakels waar ik tegenaan liep (deze bronnen heb ik ook vastgelegd). Over het algemeen ben ik best wel trots op mijn website, aan het begin van het vak wilde ik het zo snel mogelijk afronden, maar wist ik niet dat ik zoveel zou leren en uiteindelijk ook niet zo slecht zou zijn als ik dacht. Feedback is nu mijn grootste zorg samen met de kleine puntjes op de "i" vind ik. Ik ben nu bezig om een aantal elementen af te ronden, ik moet dan alleen nog even focussen op de "surface plane" onderdelen/elementen. Daar moet ik namelijk nog een paar van toevoegen. 🤞🏻
 
   ### Agenda voor meeting
   samen met je groepje opstellen
