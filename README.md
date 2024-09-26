@@ -264,5 +264,6 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
   2. [Define scroll-padding-top and how to use?](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-top) (bron: Sanne 't Hooft)
   3. [How to smooth scroll?](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
   4. [How to mute a video automatically?](https://youtu.be/Ki_0iES2cGI?si=kfSUTSU9wwX2ETPk)
+  5. Kim Dekker - Uitleg en richtlijn over grid
 
 </details>
