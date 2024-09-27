@@ -208,7 +208,7 @@ Aangezien het ondertussen alweer week 4 is en de laatste week om alles af te ron
   | student 1                                                                | student 2          | student 3    | student 4        |
   | ---                                                                      | ---                | ---          | ---              |
   | zoekbalk laten werken, wat word daar precies mee bedoelt (in hoeverre)?  | en dit             | en ik dit    | en dan ik dat    |
-  | feedback over de website pagina(s) in het algemeen                       | dit als er tijd is  | nog een punt | dit wil ik zeker |
+  | feedback over de website pagina(s) in het algemeen                       | dit als er tijd is | nog een punt | dit wil ik zeker |
   | focus state (safari / chrome)                                            | ...                | ...          | ...              |
   | Je uitkomst - karakteristiek screenshots(?)                              | ...                | ...          | ...              |
 
@@ -216,10 +216,10 @@ Aangezien het ondertussen alweer week 4 is en de laatste week om alles af te ron
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Wat ik nu had gemaakt is goed, ik wil het zelf alleen nog verder gaan stylen
+  - Ziet er goed uit, de docent merkt dat ik er trots op ben en veel heb geleerd (alleen nog even kijken naar koppen).
+  - Dat is een instelling in safari zelf die ervoor zorgt dat je alleen kan tabben binnen de elementen van safari zelf.
+  - Foto's van je website, wat heb je uiteindelijk gemaakt?
 
 </details>
 
