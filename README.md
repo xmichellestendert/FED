@@ -265,7 +265,8 @@ Aangezien het ondertussen alweer week 4 is en de laatste week om alles af te ron
   2. [Define scroll-padding-top and how to use?](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-top) (bron: Sanne 't Hooft)
   3. [How to smooth scroll?](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
   4. [How to mute a video automatically?](https://youtu.be/Ki_0iES2cGI?si=kfSUTSU9wwX2ETPk)
-  5. [How maak je een invulbalk?]([https://youtu.be/Ki_0iES2cGI?si=kfSUTSU9wwX2ETPk](https://youtu.be/u8jfMY8GcGI?si=kC6MjCPLgc9XRTM8))
+  5. [How maak je een invulbalk?]([https://youtu.be/u8jfMY8GcGI?si=kC6MjCPLgc9XRTM8])
   6. Kim Dekker - Uitleg en richtlijn over grid
+  7. [How to fix my animation on a SVG?](https://www.mattzeunert.com/2014/10/24/animate-svg-colors-with-css.html)
 
 </details>
