@@ -193,11 +193,15 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
-<img src="readme-images/WCAG1.png" width="250px" alt="Toegankelijkheidstest pagina 1">
-<img src="readme-images/WCAG2.png" width="250px" alt="Toegankelijkheidstest pagina 2">
-<img src="readme-images/WCAG3.png" width="250px" alt="Toegankelijkheidstest pagina 3">
-<img src="readme-images/WCAG4.png" width="250px" alt="Toegankelijkheidstest pagina 4">
-<img src="readme-images/WCAG5.png" width="250px" alt="Toegankelijkheidstest pagina 5">
+
+
+<img src="readme-images/WCAG1.png" width="150px" alt="Toegankelijkheidstest pagina 1">
+<img src="readme-images/WCAG2.png" width="150px" alt="Toegankelijkheidstest pagina 2">
+<img src="readme-images/WCAG3.png" width="150px" alt="Toegankelijkheidstest pagina 3">
+<img src="readme-images/WCAG4.png" width="150px" alt="Toegankelijkheidstest pagina 4">
+<img src="readme-images/WCAG5.png" width="150px" alt="Toegankelijkheidstest pagina 5">
+
+
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
