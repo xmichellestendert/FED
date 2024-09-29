@@ -260,15 +260,14 @@ Aangezien het ondertussen alweer week 4 is en de laatste week om alles af te ron
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb bij dit vak erg veel geleerd, ik herkans dit van vorig jaar. Maar ik zou nooit verwacht hebben dat ik echt zoiets zou kunnen maken. Soms vind ik het wel nog steeds moeilijk, maar als het lukt wat je wilt bereiken vind ik het best leuk en ben dus ook best trots op mijn website.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Ik heb vooral in het weekend bij de laatste puntjes op de "i" wel moeite gehad. Zo moest ik echt nog een paar kleine dingetjes aanpassen die zijn gelukt en een hamburger menu nog maken, maar ik heb daar zoveel mee geprobeerd, maar hij werkte telkens niet. Daarom heb ik op een gegeven moment besloten om ipv een hamburger menu een andere micro-interactie te maken. Ik heb toen gezocht op micro interactie en zag toen de "character limit" staan, aangezien ik al een tekstbalk in mijn website had kon ik dat implementeren, dit vond ik zelf eigenlijk ook een stuk leuker dan het hamburger menu.
+  
 </details>
 
 
