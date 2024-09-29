@@ -202,7 +202,9 @@ Class op body zetten - ligt eraan welke pagina moeilijker is (makkelijkste krijg
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+- Er is maar 1 h1 kop per pagina, in vergelijking met de echte website (zoverre ik zag)
+- aria-label is de alt tekst voor een interactief element > verwerken in code
+- Ik gebruik geen alt tekst voor decoratieve afbeeldingen
 </details>
 
 
