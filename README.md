@@ -256,13 +256,12 @@ Aangezien het ondertussen alweer week 4 is en de laatste week om alles af te ron
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/eindproduct1.jpg" width="375px" alt="resultaat pagina 1">
+  <img src="readme-images/eindproduct2.jpg" width="375px" alt="resultaat pagina 2">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik heb bij dit vak erg veel geleerd, ik herkans dit van vorig jaar. Maar ik zou nooit verwacht hebben dat ik echt zoiets zou kunnen maken. Soms vind ik het wel nog steeds moeilijk, maar als het lukt wat je wilt bereiken vind ik het best leuk en ben dus ook best trots op mijn website.
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
