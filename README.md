@@ -55,11 +55,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 (afbeeldingen invoegen over test)
 
-<img src="readme-images/WCAG1.png" width="250px" alt="Toegankelijkheidstest pagina 1">
-<img src="readme-images/WCAG2.png" width="250px" alt="Toegankelijkheidstest pagina 2">
-<img src="readme-images/WCAG3.png" width="250px" alt="Toegankelijkheidstest pagina 3">
-<img src="readme-images/WCAG4.png" width="250px" alt="Toegankelijkheidstest pagina 4">
-<img src="readme-images/WCAG5.png" width="250px" alt="Toegankelijkheidstest pagina 5">
+<img src="readme-images/WCAG1.png" width="150px" alt="Toegankelijkheidstest pagina 1">
+<img src="readme-images/WCAG2.png" width="150px" alt="Toegankelijkheidstest pagina 2">
+<img src="readme-images/WCAG3.png" width="150px" alt="Toegankelijkheidstest pagina 3">
+<img src="readme-images/WCAG4.png" width="150px" alt="Toegankelijkheidstest pagina 4">
+<img src="readme-images/WCAG5.png" width="150px" alt="Toegankelijkheidstest pagina 5">
 
 Bevindingen screenreader test
 
