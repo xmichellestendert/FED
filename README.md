@@ -90,10 +90,10 @@ Bevindingen screenreader test
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/schets1.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/schets1.png" width="250px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/schets2.png" width="375px" alt="breakdown van hamburger menu">
+  <img src="readme-images/schets2.png" width="250px" alt="breakdown van hamburger menu">
 
 </details>
 
