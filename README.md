@@ -291,5 +291,6 @@ Aangezien het ondertussen alweer week 4 is en de laatste week om alles af te ron
   5. [How maak je een invulbalk?](https://youtu.be/u8jfMY8GcGI?si=kC6MjCPLgc9XRTM8)
   6. Kim Dekker - Uitleg en richtlijn over grid
   7. [How to fix my animation on a SVG?](https://www.mattzeunert.com/2014/10/24/animate-svg-colors-with-css.html)
+  8. [How to create a character limit?](https://www.youtube.com/watch?v=Byx1Gc3xTD8)
 
 </details>
